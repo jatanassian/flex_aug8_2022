@@ -1,14 +1,14 @@
-# Lighthouse Labs | Database Design
+# Database Design
 
-[GitHub Repository]()
+## To Do
 
-- [] Keys; what are they good for!?
-- [] What's in a Name?
-- [] Relationships Don't have to be Complicated
-- [] Data... it just had to be Data
-- [] Design Concepts
-- [] ERDs
-- [] Practice Makes Perfect
+-[] Keys; what are they good for!?
+-[] What's in a Name?
+-[] Relationships Don't have to be Complicated
+-[] Data... it just had to be Data
+-[] Design Concepts
+-[] ERDs
+-[] Practice Makes Perfect
 
 ## Data is Royalty!
 
